@@ -8,7 +8,12 @@
 ## 守卫基地
 守卫哥布林和狼人的进攻
 >[🏹点击玩守卫基地](https://convicted-felines.github.io/defencebase/index.html)
+>[🏹点击玩守卫基地打丧尸版](https://convicted-felines.github.io/defencebase1/index.html)
 
 ## 僵尸之路
 正面和成群的丧尸对决
 >[☠️点击玩僵尸之路](https://convicted-felines.github.io/ZombieRoad/index.html)
+
+## 螺丝解密
+点击螺丝拆散它
+>[🔧点击玩螺丝解密](https://convicted-felines.github.io/ScrewPuzzle/index.html)
