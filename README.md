@@ -16,4 +16,8 @@
 
 ## 螺丝解密
 点击螺丝拆散它
->[🔧点击玩螺丝解密](https://convicted-felines.github.io/ScrewPuzzle/index.html)
+>[🔧拆房子](https://convicted-felines.github.io/ScrewPuzzle/fangzi.html)
+>[🔧拆洋葱](https://convicted-felines.github.io/ScrewPuzzle/yangcong.html)
+>[🔧拆企鹅蛋](https://convicted-felines.github.io/ScrewPuzzle/qiedan.html)
+>[🔧拆西瓜](https://convicted-felines.github.io/ScrewPuzzle/xigua.html)
+>[🔧拆榴莲](https://convicted-felines.github.io/ScrewPuzzle/liulian.html)
