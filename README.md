@@ -13,6 +13,10 @@
 ## 僵尸之路
 正面和成群的丧尸对决
 >[☠️点击玩僵尸之路](https://convicted-felines.github.io/ZombieRoad/index.html)
+>[☠️点击玩僵尸之路数字门版](https://convicted-felines.github.io/ZombieRoad/NumDoor.html)
+
+## 三消棋子击败金刚
+>[🦍孵化龙蛋击败金刚](https://convicted-felines.github.io/DragonEgg/index.html)
 
 ## 螺丝解密
 点击螺丝拆散它
