@@ -18,6 +18,9 @@
 ## 三消棋子击败金刚
 >[🦍孵化龙蛋击败金刚](https://convicted-felines.github.io/DragonEgg/index.html)
 
+## 经营玩法
+>[🐀杀老鼠烤肉卖](https://convicted-felines.github.io/Operate/RatMeat.html)
+
 ## 螺丝解密
 点击螺丝拆散它
 >[🔧拆房子](https://convicted-felines.github.io/ScrewPuzzle/fangzi.html)
