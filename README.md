@@ -20,7 +20,9 @@
 
 ## 经营玩法
 >[🐀杀老鼠烤肉卖](https://convicted-felines.github.io/Operate/RatMeat.html)
-[🌿采集草药做药水](https://convicted-felines.github.io/Operate/做药水.html)
+>[🌿采集草药做药水](https://convicted-felines.github.io/Operate/做药水.html)
+>[🍖经营羊肉馆](https://convicted-felines.github.io/Operate/sheepmeat/index)
+
 
 ## 螺丝解密
 点击螺丝拆散它
